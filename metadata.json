@@ -1,0 +1,6 @@
+{
+  "name": "SPS Sarees",
+  "description": "Sri Praharsha Silk Sarees (SPS Sarees) is an elegant boutique storefront sharing the heritage, craftsmanship, and pure artistry of Indian Handloom Silk Sarees, featuring an interactive blouse matching studio, collection filters, custom requests, and trust guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

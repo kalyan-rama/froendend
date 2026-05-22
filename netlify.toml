@@ -1,0 +1,12 @@
+# Netlify SPA redirect routing fallback configuration
+[[redirects]]
+  from = "/api/*"
+  to = "https://ais-pre-72zddibcclbmwhumzb5s7e-115919430620.asia-east1.run.app/api/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
